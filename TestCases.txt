@@ -1,0 +1,14 @@
+# Place market order
+python main.py market BTCUSDT buy 0.001
+
+# Place limit order
+python main.py limit BTCUSDT sell 0.001 50000
+
+# Place stop-limit order
+python main.py stop BTCUSDT buy 0.001 49000 49500
+
+# Check account info
+python main.py account
+
+# Check order status
+python main.py status BTCUSDT 123456789

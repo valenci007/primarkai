@@ -1,0 +1,26 @@
+touc2025-09-09 23:41:30,832 - bot - INFO - Trading bot initialized
+2025-09-09 23:41:30,832 - utils - INFO - Trading bot started successfully
+2025-09-09 23:41:30,834 - bot - ERROR - Market order failed: Quantity must be an integer
+2025-09-09 23:41:30,834 - utils - ERROR - Command failed: Quantity must be an integer
+2025-09-09 23:42:14,407 - bot - INFO - Trading bot initialized
+2025-09-09 23:42:14,407 - utils - INFO - Trading bot started successfully
+2025-09-09 23:42:14,410 - bot - ERROR - Market order failed: Quantity must be an integer
+2025-09-09 23:42:14,410 - utils - ERROR - Command failed: Quantity must be an integer
+2025-09-09 23:45:28,043 - bot - INFO - Trading bot initialized
+2025-09-09 23:45:28,043 - utils - INFO - Trading bot started successfully
+2025-09-09 23:45:28,046 - bot - INFO - Placing market order: buy 0.001 BTCUSDT
+2025-09-09 23:45:28,046 - utils - ERROR - Command failed: API Secret required for private endpoints
+2025-09-09 23:54:15,736 - bot - INFO - Trading bot initialized
+2025-09-09 23:54:15,737 - utils - INFO - Trading bot started successfully
+2025-09-09 23:54:15,739 - bot - INFO - Placing limit order: sell 0.001 BTCUSDT @ 50000.0
+2025-09-09 23:54:15,739 - utils - ERROR - Command failed: API Secret required for private endpoints
+2025-09-09 23:54:28,379 - bot - INFO - Trading bot initialized
+2025-09-09 23:54:28,379 - utils - INFO - Trading bot started successfully
+2025-09-09 23:54:28,382 - bot - INFO - Placing stop-limit order: buy 0.001 BTCUSDT @ 49000.0 (stop: 49500.0)
+2025-09-09 23:54:28,382 - utils - ERROR - Command failed: API Secret required for private endpoints
+2025-09-09 23:54:38,414 - bot - INFO - Trading bot initialized
+2025-09-09 23:54:38,414 - utils - INFO - Trading bot started successfully
+2025-09-09 23:54:38,417 - utils - ERROR - Command failed: API Secret required for private endpoints
+2025-09-09 23:54:50,288 - bot - INFO - Trading bot initialized
+2025-09-09 23:54:50,288 - utils - INFO - Trading bot started successfully
+2025-09-09 23:54:50,291 - utils - ERROR - Command failed: API Secret required for private endpoints
